@@ -1,16 +1,25 @@
-### Hi there 👋
+## 🚀 Fala, Devs! Abaixo você pode saber um pouco sobre mim!</strong>
 
-<!--
-**jotahtsx/jotahtsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>UX/UI Designer e Front End Developer. Gosto de experimentar novas práticas, tecnologias e compartilhar sobre.</b>
 
-Here are some ideas to get you started:
+💼 Hoje trabalho como UX/UI Designer e Front End na Pensar Educação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 No momento estou estudando Next/JS mais a fundo para futuramente fazer lives recriando sites.
+
+💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahsemgit">Twitter</a> ou abre uma issue aqui
+
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotahtsx&show_icons=true)
