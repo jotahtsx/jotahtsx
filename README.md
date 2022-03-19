@@ -6,7 +6,7 @@
 
 🔭 No momento estou estudando Next/JS mais a fundo para futuramente fazer lives recriando sites.
 
-💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahsemgit">Twitter</a> ou abre uma issue aqui
+💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahsemgit" target="_blank">Twitter</a> ou abre uma issue aqui
 
 ----
 
