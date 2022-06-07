@@ -2,7 +2,7 @@
 
 <b>UX/UI Designer e Front End Developer. Gosto de experimentar novas práticas, tecnologias e compartilhar sobre.</b>
 
-💼 Hoje estou desempregado, mas estou aceito uma vaga.
+💼 Hoje estou desempregado, mas estou aceitando uma vaga.
 
 🔭 No momento estou estudando Next/JS mais a fundo para futuramente fazer lives recriando sites.
 
