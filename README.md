@@ -2,13 +2,13 @@
 
 <b>UX/UI Designer e Front End Developer. Gosto de experimentar novas práticas, tecnologias e compartilhar sobre.</b>
 
-💼 Hoje estou desempregado, mas estou aceitando uma vaga.
+💼 Hoje estou desempregado, mas estou aceitando novos trabalhos, remotos e presenciais.
 
-🔭 No momento estou estudando Next/JS mais a fundo para futuramente fazer lives recriando sites.
+🔭 No momento estou estudando Javascript, ReactJS, Next/JS mais a fundo para futuramente fazer lives recriando sites.
 
 💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahsemgit" target="_blank">Twitter</a> ou abre uma issue <a href="https://github.com/jotahtsx/jotahtsx/issues/new/choose">aqui</a>
 
-Quer ver meu portfólio, só acessar aqui no <a href="https://www.behance.net/joaomanoels" target="_blank">Behance</a>
+Quer ver meus trabalhos como designer UX/UI? só acessar aqui no <a href="https://www.behance.net/joaomanoels" target="_blank">Behance</a>
 
 ----
 
