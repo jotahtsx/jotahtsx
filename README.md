@@ -6,7 +6,7 @@
 
 🔭 No momento estou estudando Javascript, ReactJS, Next/JS mais a fundo para futuramente fazer lives recriando sites.
 
-💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahsemgit" target="_blank">Twitter</a> ou abre uma issue <a href="https://github.com/jotahtsx/jotahtsx/issues/new/choose">aqui</a>
+💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahtsx" target="_blank">Twitter</a> ou abre uma issue <a href="https://github.com/jotahtsx/jotahtsx/issues/new/choose">aqui</a>
 
 Quer ver meus trabalhos como designer UX/UI? só acessar aqui no <a href="https://www.behance.net/joaomanoels" target="_blank">Behance</a>
 
