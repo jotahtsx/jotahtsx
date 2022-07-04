@@ -4,7 +4,7 @@
 
 💼 Hoje estou desempregado, mas estou aceitando novos trabalhos, remotos e presenciais.
 
-🔭 No momento estou estudando Javascript, ReactJS, Next/JS mais a fundo para futuramente fazer lives recriando sites.
+🔭 No momento estou estudando Javascript, ReactJS, NextJS mais a fundo para futuramente fazer lives recriando sites.
 
 💬 Quer mandar alguma pergunta? Me manda DM lá no <a href="https://twitter.com/jotahtsx" target="_blank">Twitter</a> ou abre uma issue <a href="https://github.com/jotahtsx/jotahtsx/issues/new/choose">aqui</a>
 
