@@ -7,7 +7,7 @@
 <div align="center" style="display:flex;margin-bottom:100px;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jotahtsx&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotahtsx&layout=compact&theme=tokyonight)
 
 </div>
 
