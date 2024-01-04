@@ -6,9 +6,9 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jotahtsx&theme=radical&mode=weekly" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jotahtsx)](https://git.io/streak-stats)
  
  &nbsp;
  &nbsp;
