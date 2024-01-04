@@ -4,9 +4,8 @@
 
 <p align="center">Tech Enthusiast: Crafting with ❤️ in UI/UX, Frontend, and Java! <br><br> From backend development using Java and PHP! to frontend development using ReactJS and Next.js playing around with TypeScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>designer ux and full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jotahtsx)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jotahtsx&theme=dark)](https://git.io/streak-stats)
  
  &nbsp;
  &nbsp;
@@ -24,7 +23,6 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-239120?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
