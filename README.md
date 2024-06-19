@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/jotahtsx/jotahtsx/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Tech Enthusiast: Crafting with ❤️ in UI/UX, Frontend, and Java! <br><br> From backend development using Java and PHP! to frontend development using ReactJS and Next.js playing around with TypeScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>designer ux and full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Tech Enthusiast: Crafting with ❤️ in UI/UX, Frontend, PHP and Java! <br><br> From backend development using Java and PHP! to frontend development using ReactJS and Next.js playing around with TypeScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>designer ux and full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div align="center" style="display:flex;margin-bottom:100px;">
 
